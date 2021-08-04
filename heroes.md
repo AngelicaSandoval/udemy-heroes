@@ -8,5 +8,3 @@
 - Robin
 - Volcán Negro
 - Atom
-- Hombre araña
-- Iroman
