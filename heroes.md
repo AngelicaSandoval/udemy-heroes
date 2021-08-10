@@ -10,3 +10,4 @@
 - Atom
 - Capitan américa
 - Iroman
+- Thor
