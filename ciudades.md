@@ -5,3 +5,5 @@
 3. Hell's Kitchen
 4. Riobamba
 5. Ambato
+6. Quito
+7. Latacunga
