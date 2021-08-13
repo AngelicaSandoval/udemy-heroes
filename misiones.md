@@ -6,5 +6,4 @@
 4. Investigar los trabajos del Joker
 5. Tratar de investigar que trama el Flash Reverso
 6. Misión imposible
-7. Nueva misión
-8. Misión Riobamba
+7. Misión Riobamba
