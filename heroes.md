@@ -6,6 +6,7 @@
 - Mujer Maravilla
 - Linterna Verde
 - Robin
-- Volcán Negro
 - Atom
-- Capitan america
+- Capitan américa
+- Iroman
+- Thor

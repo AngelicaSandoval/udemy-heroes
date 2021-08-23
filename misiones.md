@@ -5,4 +5,4 @@
 3. Buscar nuevos miembros para la liga
 5. Investigar los trabajos del Joker
 6. Tratar de investigar que trama el Flash Reverso
-7. Tratar de conquistar el mundo
+7. Misión Riobamba
