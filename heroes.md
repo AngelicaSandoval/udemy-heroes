@@ -9,3 +9,4 @@
 - Capitan américa
 - Iroman
 - Thor
+- Heroe 1
