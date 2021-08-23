@@ -7,3 +7,4 @@
 5. Ambato
 6. Quito
 7. Latacunga
+8. Ibarra
