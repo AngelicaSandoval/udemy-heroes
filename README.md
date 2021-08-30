@@ -1,12 +1,22 @@
-# Objetivos de la repositorio
+# Front End
 
-Este proyecto se encarga de manejar los planes de la liga de la justicia
+## Objetivos del repositorio
+Este repositorio almacena todos los archivos del FrontEnd del sistema Easybrok
 
-
-## Notas
-Pueden hacer lo que quieran...
-
-##Github
-Cambios realizados
-
-Paso4
+### Módulos
+- Entorno
+- Administrativo
+- Producto
+- Cotización
+- Cobranzas
+- DashBoard
+- Manuales
+- Fuerza de Ventas
+- Reportes
+- Siniestros
+- Formularios
+- Renovaciones
+- Vista 360
+- Tableros de Control
+- Reportes Dinámicos
+- Gestionador Comercial
