@@ -1,12 +1,5 @@
-# Objetivos de la repositorio
+# Repositorio Prueba
 
-Este proyecto se encarga de manejar los planes de la liga de la justicia
+## Objetivos del repositorio
 
-
-## Notas
-Pueden hacer lo que quieran...
-
-##Github
-Cambios realizados
-
-Paso4
+Pruebas internas
