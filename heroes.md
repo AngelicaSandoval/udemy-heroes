@@ -6,6 +6,9 @@
 - Mujer Maravilla
 - Robin
 - Atom
+
+# Se agregan nuevos heroes
+
 - Capitan américa
 - Iroman
 - Thor
