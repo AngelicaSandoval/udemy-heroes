@@ -13,3 +13,4 @@
 - Iroman
 - Thor
 - Hulk
+- Heroe 1
