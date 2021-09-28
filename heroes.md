@@ -12,5 +12,4 @@
 - Capitan américa
 - Iroman
 - Thor
-- Heroe 1
 - Hulk

@@ -11,4 +11,3 @@
 6. Quito
 7. Latacunga
 8. Ibarra
-9. Cuenca nuevo
