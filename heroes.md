@@ -12,8 +12,4 @@
 - Capitan américa
 - Iroman
 - Thor
-<<<<<<< HEAD
 - Heroe 1
-=======
-- Hulk
->>>>>>> dev
