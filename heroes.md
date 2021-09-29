@@ -14,4 +14,3 @@
 - Thor
 - Hulk
 - Heroe 1
-- Heroe 2
