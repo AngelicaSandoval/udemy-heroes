@@ -5,5 +5,3 @@
 3. Flash Reverso
 4. Doomsday
 5. Deadshot
-6. Villano 1
-7. Villano 2
