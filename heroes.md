@@ -8,3 +8,4 @@
 - Mujer Maravilla
 - Robin
 - Atom
+- Nuevo Heroe
