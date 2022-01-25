@@ -7,3 +7,4 @@
 4. Riobamba
 5. Ambato
 6. Guayaquil
+7. Ibarra
