@@ -9,3 +9,4 @@
 - Robin
 - Atom
 - Nuevo Heroe
+- Heroe 2
